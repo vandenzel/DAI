@@ -1,0 +1,19 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2111
+D 1024 bit (256 x 4) static MOS RAM with common I/O and output disable 
+$ENDCMP
+#
+$CMP 2716
+D 17 Kbit (2kb x 8) UV EPROM
+$ENDCMP
+#
+$CMP 2N3704
+D 300mA Ic, 30V Vce, General Purpose NPN Transistor, TO-92
+$ENDCMP
+#
+$CMP 6116
+D CMOS Static RAM 16K (2K x 8-Bit)
+$ENDCMP
+#
+#End Doc Library
